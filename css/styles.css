@@ -50,6 +50,8 @@ align-items: center;
 .main-information {
     background: rgba(46, 47, 66, 1);
     padding: 188px 0;
+    border-image: url(/images/images/people-office\ 1.jpg), 
+    ;
 }
 
 .button{
